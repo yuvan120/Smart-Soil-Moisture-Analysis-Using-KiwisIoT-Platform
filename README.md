@@ -10,6 +10,12 @@ The collected sensor data is transmitted through Wi-Fi to the KiwisIoT platform,
 
 This project helps farmers and gardeners understand soil conditions, make better irrigation decisions, avoid unnecessary water usage, and support efficient smart agriculture practices.
 
+Project Link:
+https://www.instructables.com/Smart-Soil-Moisture-Analyze-Using-KiwisIoT-Platfor/
+
+Learn More:
+https://github.com/Kiwistron/KiwisIoT-Projects
+
 ## 🌐 Explore KiwisIoT
 
 Want to build your own IoT projects?
@@ -19,7 +25,3 @@ Visit [**KiwisIoT – https://www.kiwisiot.in/**](https://www.kiwisiot.in/) to e
 **Build. Connect. Monitor. Innovate with KiwisIoT!**
 
 ---
-
-<p align="center">
-  <b>IoT | Soil Moisture Monitoring | Smart Agriculture | Real-Time Data | Connected with KiwisIoT</b>
-</p>
